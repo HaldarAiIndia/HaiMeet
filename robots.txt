@@ -1,5 +1,5 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://haimailwb.vercel.app/sitemap.xml
-Sitemap: https://haimailwb.vercel.app/sitemap.txt
+Sitemap: https://haimeet.vercel.app/sitemap.xml
+Sitemap: https://haimeet.vercel.app/sitemap.txt
