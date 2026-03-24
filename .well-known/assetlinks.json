@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.HaldarAi.HaiMeet",
+      "sha256_cert_fingerprints": [
+        "3B:D2:25:29:53:5F:2D:E2:09:B6:01:37:1F:A1:1C:38:20:74:9B:BB:9F:AF:57:1A:2D:79:3D:F0:EB:B1:DD:87"
+      ]
+    }
+  }
+]
