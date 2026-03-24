@@ -10,3 +10,15 @@
     }
   }
 ]
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.HaldarAi.HaiMeet",
+      "sha256_cert_fingerprints": [
+        "3F:B3:7C:F2:E6:CA:8D:A3:7B:22:8D:64:8A:1C:EF:26:A1:C4:4E:3C:62:0A:1A:A3:9E:C8:DD:FB:D9:DE:14:5C"
+      ]
+    }
+  }
+]
